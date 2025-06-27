@@ -1,5 +1,5 @@
 {
-  "name": "joygame-ui-example",
+  "name": "@eoist/react-native-ui-library-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.4",
-    "joygame-ui": "file:.."
+    "@eoist/react-native-ui-library": "file:.."
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

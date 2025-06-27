@@ -1,6 +1,6 @@
 {
-  "name": "@hakandursun/joygame-ui",
-  "version": "0.1.0",
+  "name": "@eoist/react-native-ui-library",
+  "version": "0.1.1",
   "description": "Joygame ui and components",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace @joygame/ui-example",
+    "example": "yarn workspace @eoist/react-native-ui-library-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
